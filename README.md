@@ -10,7 +10,7 @@ This guide includes **step-by-step repair instructions with photos**, outlining 
 
 Before beginning the repair, you’ll need the following tools and materials:
 
-- Drill bits: 1.5mm and 2mm (suitable for plastic)
+- Drill bits: 2mm (suitable for plastic)
 - Replacement gear with the following specifications:
   - Teeth: 12  
   - Module: 0.3  
